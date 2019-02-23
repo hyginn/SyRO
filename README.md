@@ -19,7 +19,7 @@ A role that relates to establishing or disestablishing the physical existence of
 **Functional role:**
 A role that relates to the realization of the purpose of the system, i.e. those aspects of its behaviour that are maintained under purifying selection. (SyRO:0000001)
 
-![](SyRO-2016-10-26_structural.jpg "Structural terms in SyRO")
+![](SyRO-2016-10-26_functional.jpg "Functional terms in SyRO")
 
 &nbsp;
 
